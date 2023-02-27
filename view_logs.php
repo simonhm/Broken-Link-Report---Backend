@@ -30,5 +30,5 @@
     echo "<a href=view_logs.php?lib=$lib&year=$vy>" . $vy . "</a>  ";
   }
   }
-  echo "<br><br><center>PALS@" . $y . " - Broken Link Report Logging - started since 2022/02/15</center>";
+  echo "<br><br><center>PALS@" . $y . " - Broken Link Report Logging</center>";
 ?>
