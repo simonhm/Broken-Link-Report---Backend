@@ -16,14 +16,10 @@ Download and upload all files and folders into your hosting environment.
 ### config.ini
 Edit this file to provide the list of URL identify and library emails as formatted here:
 
-[lib_code = api_key]
+[Library URL identify and Emails: lib_code = list of URL identify|list of emails]
 
 ```
-NZ = 111_api_key_of_network_zone
-
-TST1 = 123xyzapikey1
-
-TST2 = 111222333apikey2
+TST = -tst.primo,-test.primo,test.primo|your_library_email1@your_domain.com, your_library_email2@your_domain.com
 ```
 
 ## Instructions for Using the Program
