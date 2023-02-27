@@ -36,7 +36,7 @@ In custom.js, change this code at the very bottom:
 From
 xhttp.open("POST", "https://your.domain.edu/path_to_code/", true);
 To
-xhttp.open("POST", "https://your_hosting_domain.com/broken_link_backend.php", true);
+xhttp.open("POST", "https://your_hosting_domain.com/your_path/broken_link_backend.php", true);
 ```
 
 Then ... that's it! When the patron sends the report, the data is captured in CSV files and emailed to librarians
