@@ -43,7 +43,7 @@ Then ... that's it! When the patron sends the report, the data is captured in CS
 
 ## View reports
 
-Beside sending emails, this program also captures data in CSV files and provides a simple view page where library staff can browse and download the broken link reported. 
+This program captures data in CSV files and provides a simple view page where library staff can browse and download the broken link reported. 
 There are 2 options:
 
 ### Option 1: View reports of specific library
