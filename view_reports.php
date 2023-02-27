@@ -27,7 +27,7 @@
   echo "<br><br><br>View reports for ";
   for ($i = 0; $i <= 2; $i++) {
     $vy = $y - $i;
-    echo "<a href=view_logs.php?lib=$lib&year=$vy>" . $vy . "</a>  ";
+    echo "<a href=view_reports.php?lib=$lib&year=$vy>" . $vy . "</a>  ";
   }
   }
   echo "<br><br><center>PALS@" . $y . " - Broken Link Report Logging</center>";
